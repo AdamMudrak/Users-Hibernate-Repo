@@ -16,13 +16,14 @@ public class UserCreateRepository {
 
         try (Session session = HibernateUtil.getSessionFactory().openSession()) {
             transaction = session.beginTransaction();
-
-            String hql = "INSERT INTO User (firstName, lastname, phone, email) " +
+//Тот тип ошибки, от которой не знаешь, плакать или смеяться
+// lastname вместо lastName написал в строках 21, 26...
+            String hql = "INSERT INTO User (firstName, lastName, phone, email) " +
                     "VALUES (:firstName, :lastName, :phone, :email)";
 
             Query query = session.createQuery(hql);
             query.setParameter("firstName", user.getFirstName());
-            query.setParameter("lastname", user.getLastName());
+            query.setParameter("lastName", user.getLastName());
             query.setParameter("phone", user.getPhone());
             query.setParameter("email", user.getEmail());
             query.executeUpdate();

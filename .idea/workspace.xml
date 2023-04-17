@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/repositories/UserCreateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/repositories/UserCreateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681760217062</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="FIX: added forgotten functionality">
+      <created>1681762867274</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1681762867274</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,7 +336,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add function to create a new User" />
     <MESSAGE value="Add function to delete a User" />
     <MESSAGE value="Add function to show user's data" />
     <MESSAGE value="Finalize entry point" />
@@ -353,6 +360,7 @@
     <MESSAGE value="Handle all app options" />
     <MESSAGE value="QUICKFIX: change wrong naming" />
     <MESSAGE value="Add starter functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add starter functionality" />
+    <MESSAGE value="FIX: added forgotten functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: added forgotten functionality" />
   </component>
 </project>
