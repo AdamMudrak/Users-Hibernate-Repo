@@ -29,6 +29,7 @@ public class UserUpdateService {
                 return ue.getErrors(errors);
             }
         }
+        return repository.updateUser(user);
     }
 
     private Map<String, String> validateData(User user) {
