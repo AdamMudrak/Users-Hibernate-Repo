@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserCreateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserReadController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681757505876</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Handle creation">
+      <created>1681757744430</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681757744430</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Handle deletion">
+      <created>1681757988997</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681757988997</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,8 +258,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add validation for e-mails and phone numbers" />
-    <MESSAGE value="Add function to check if ID exists in DB" />
     <MESSAGE value="Add hibernate functionality" />
     <MESSAGE value="Add function to create new User in DB" />
     <MESSAGE value="Add repository to delete a User from DB" />
@@ -256,7 +268,7 @@
     <MESSAGE value="Add function to create a new User" />
     <MESSAGE value="Add function to delete a User" />
     <MESSAGE value="Add function to show user's data" />
-    <MESSAGE value="FIX add functionality to empty starter function" />
+    <MESSAGE value="FIX: add functionality to empty starter function" />
     <MESSAGE value="Add exceptions handlers" />
     <MESSAGE value="Add repository to create a new User in DB" />
     <MESSAGE value="Add repository to update a User Data in DB" />
@@ -269,6 +281,8 @@
     <MESSAGE value="Enable reading" />
     <MESSAGE value="Enable updating" />
     <MESSAGE value="HOTFIX: forgot return statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="HOTFIX: forgot return statement" />
+    <MESSAGE value="Handle creation" />
+    <MESSAGE value="Handle deletion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handle deletion" />
   </component>
 </project>
