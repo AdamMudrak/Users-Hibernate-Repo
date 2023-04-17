@@ -15,7 +15,7 @@ public final class Constants {
     public final static String DB_USER = "root";
     public final static String DB_PASS = PassReader.readPass();
 
-    public final static String TABLE_CONTACTS = "users";
+    public final static String TABLE_USERS = "users";
 
     // Регулярное выражение для номера телефона формата xxx xxx-xxxx
     public final static String PHONE_RGX = "[0-9]{3}[\\ ][0-9]{3}-[0-9]{4}";
