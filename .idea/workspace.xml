@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/AppStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/AppStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/HibernateUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681759854512</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add starter functionality">
+      <created>1681760217062</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1681760217062</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,11 +328,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add menu to choose option" />
     <MESSAGE value="Add function to create a new User" />
     <MESSAGE value="Add function to delete a User" />
     <MESSAGE value="Add function to show user's data" />
-    <MESSAGE value="Add starter to main method" />
+    <MESSAGE value="Finalize entry point" />
     <MESSAGE value="Add exceptions handlers" />
     <MESSAGE value="Add repository to create a new User in DB" />
     <MESSAGE value="Add repository to update a User Data in DB" />
@@ -346,6 +352,7 @@
     <MESSAGE value="QUICKFIX: Changed wrong naming" />
     <MESSAGE value="Handle all app options" />
     <MESSAGE value="QUICKFIX: change wrong naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="QUICKFIX: change wrong naming" />
+    <MESSAGE value="Add starter functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add starter functionality" />
   </component>
 </project>
