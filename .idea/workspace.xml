@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/services/UserReadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681747684467</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Modify .gitignore(need &quot;shelf&quot; on local machine only)">
+      <created>1681747848139</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681747848139</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Enable deletion">
+      <created>1681748152851</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681748152851</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +247,7 @@
     <MESSAGE value="Add view to get what User to show" />
     <MESSAGE value="Add view to get which User's data to update" />
     <MESSAGE value="Modify .gitignore(need &quot;shelf&quot; on local machine only)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify .gitignore(need &quot;shelf&quot; on local machine only)" />
+    <MESSAGE value="Enable deletion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enable deletion" />
   </component>
 </project>
