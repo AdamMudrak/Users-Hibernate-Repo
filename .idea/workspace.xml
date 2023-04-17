@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/repositories/UserCreateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/repositories/UserCreateRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/Constants.java" afterDir="false" />
-    </list>
+    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -315,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681762867274</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Update host data">
+      <created>1681764586949</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1681764586949</updated>
+    </task>
+    <task id="LOCAL-00034" summary="FIX: wrong string was provided into HQL">
+      <created>1681764636805</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1681764636805</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,8 +346,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add function to delete a User" />
-    <MESSAGE value="Add function to show user's data" />
     <MESSAGE value="Finalize entry point" />
     <MESSAGE value="Add exceptions handlers" />
     <MESSAGE value="Add repository to create a new User in DB" />
@@ -361,6 +369,8 @@
     <MESSAGE value="QUICKFIX: change wrong naming" />
     <MESSAGE value="Add starter functionality" />
     <MESSAGE value="FIX: added forgotten functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIX: added forgotten functionality" />
+    <MESSAGE value="Update host data" />
+    <MESSAGE value="FIX: wrong string was provided into HQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: wrong string was provided into HQL" />
   </component>
 </project>
