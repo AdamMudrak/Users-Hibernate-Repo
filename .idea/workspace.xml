@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/services/UserCreateService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681736260152</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Modify .gitignore(need &quot;shelf&quot; on local machine only)">
+      <created>1681747684467</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681747684467</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +231,7 @@
     <MESSAGE value="Add view to get what User to delete" />
     <MESSAGE value="Add view to get what User to show" />
     <MESSAGE value="Add view to get which User's data to update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add exceptions handlers" />
+    <MESSAGE value="Modify .gitignore(need &quot;shelf&quot; on local machine only)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify .gitignore(need &quot;shelf&quot; on local machine only)" />
   </component>
 </project>
