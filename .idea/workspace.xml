@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/views/UserCreateView.java" afterDir="false" />
-    </list>
+    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +144,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681725883299</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add function to create a new User">
+      <created>1681726288467</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681726288467</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add function to delete a User">
+      <created>1681726485216</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681726485216</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add function to show user's data">
+      <created>1681726560056</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681726560056</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +197,9 @@
     <MESSAGE value="Add function to update User Data in DB" />
     <MESSAGE value="Add empty starter function" />
     <MESSAGE value="Add menu to choose option" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add menu to choose option" />
+    <MESSAGE value="Add function to create a new User" />
+    <MESSAGE value="Add function to delete a User" />
+    <MESSAGE value="Add function to show user's data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add function to show user's data" />
   </component>
 </project>
