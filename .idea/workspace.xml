@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="" />
+    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/exceptions/CreateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/exceptions/OptionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/exceptions/UpdateException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681726560056</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add START function">
+      <created>1681735461315</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681735461315</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +211,7 @@
     <MESSAGE value="Add function to create a new User" />
     <MESSAGE value="Add function to delete a User" />
     <MESSAGE value="Add function to show user's data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function to show user's data" />
+    <MESSAGE value="FIX add functionality to empty starter function" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX add functionality to empty starter function" />
   </component>
 </project>
