@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/repositories/UserUpdateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/views/AppView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681724461479</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add function to update User Data in DB">
+      <created>1681724793012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681724793012</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add empty starter function">
+      <created>1681725109125</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681725109125</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +169,8 @@
     <MESSAGE value="Add function to create new User in DB" />
     <MESSAGE value="Add function to delete a User from DB" />
     <MESSAGE value="Add function to read a User from DB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function to read a User from DB" />
+    <MESSAGE value="Add function to update User Data in DB" />
+    <MESSAGE value="Add empty starter function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add empty starter function" />
   </component>
 </project>
