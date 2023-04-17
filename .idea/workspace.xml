@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserReadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/services/AppService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserDeleteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserDeleteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserReadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserReadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserUpdateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/UserUpdateController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681757988997</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Handle reading">
+      <created>1681758143995</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1681758143995</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Handle updating">
+      <created>1681758279011</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1681758279011</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,8 +275,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add hibernate functionality" />
-    <MESSAGE value="Add function to create new User in DB" />
     <MESSAGE value="Add repository to delete a User from DB" />
     <MESSAGE value="Add repository to read a User from DB" />
     <MESSAGE value="Add function to update User Data in DB" />
@@ -283,6 +298,8 @@
     <MESSAGE value="HOTFIX: forgot return statement" />
     <MESSAGE value="Handle creation" />
     <MESSAGE value="Handle deletion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Handle deletion" />
+    <MESSAGE value="Handle reading" />
+    <MESSAGE value="Handle updating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handle updating" />
   </component>
 </project>

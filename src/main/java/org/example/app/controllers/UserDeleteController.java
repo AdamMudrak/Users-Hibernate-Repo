@@ -14,7 +14,7 @@ public class UserDeleteController {
         this.view = view;
     }
 
-    public void deleteContact() {
+    public void deleteUser() {
         view.getOutput(service.deleteUser(view.getData()));
         AppStarter.startApp();
     }
