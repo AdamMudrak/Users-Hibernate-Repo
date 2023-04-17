@@ -7,11 +7,11 @@ public final class Constants {
     // DB
     public final static String PATH_CREDS = "credentials/";
 
-    public final static String DB_JDBC = "jdbc:mysql://127.0.0.1:3306/";
+    public final static String DB_JDBC = "jdbc:mysql://localhost:3306/";
     public final static String DB_NAME = "users_hibernate_db";
 
     public final static String DB_DRIVER = "com.mysql.cj.jdbc.Driver";
-    public final static String DB_URL = "jdbc:mysql://127.0.0.1:3306/users_hibernate_db?";
+    public final static String DB_URL = "jdbc:mysql://localhost:3306/users_hibernate_db?";
     public final static String DB_USER = "root";
     public final static String DB_PASS = PassReader.readPass();
 
