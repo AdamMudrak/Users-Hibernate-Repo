@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/controllers/AppController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/IdChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/IdChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/utils/AppStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/AppStarter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,26 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.app.utils" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.app.App" />
+      <module name="Users-Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -267,7 +286,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681759412569</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Handle all app options">
+      <created>1681759825164</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1681759825164</updated>
+    </task>
+    <task id="LOCAL-00030" summary="QUICKFIX: change wrong naming">
+      <created>1681759854512</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1681759854512</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,13 +321,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add function to update User Data in DB" />
-    <MESSAGE value="Add empty starter function" />
     <MESSAGE value="Add menu to choose option" />
     <MESSAGE value="Add function to create a new User" />
     <MESSAGE value="Add function to delete a User" />
     <MESSAGE value="Add function to show user's data" />
-    <MESSAGE value="FIX: add functionality to empty starter function" />
+    <MESSAGE value="Add starter to main method" />
     <MESSAGE value="Add exceptions handlers" />
     <MESSAGE value="Add repository to create a new User in DB" />
     <MESSAGE value="Add repository to update a User Data in DB" />
@@ -313,6 +344,8 @@
     <MESSAGE value="Handle updating" />
     <MESSAGE value="Enable all app options" />
     <MESSAGE value="QUICKFIX: Changed wrong naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="QUICKFIX: Changed wrong naming" />
+    <MESSAGE value="Handle all app options" />
+    <MESSAGE value="QUICKFIX: change wrong naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="QUICKFIX: change wrong naming" />
   </component>
 </project>
