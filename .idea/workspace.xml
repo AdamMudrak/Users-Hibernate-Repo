@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="fixup! Add function to check if ID exists in DB">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/utils/HibernateUtil.java" afterDir="false" />
+    <list default="true" id="4faf3e10-4417-41f1-9127-fbb89f4ba4e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app/repositories/UserDeleteRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681722326968</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add hibernate functionality">
+      <created>1681722921295</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681722921295</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add function to create new User in DB">
+      <created>1681723604759</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681723604759</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +137,8 @@
     <MESSAGE value="Add functions to connect with DB" />
     <MESSAGE value="Add validation for e-mails and phone numbers" />
     <MESSAGE value="Add function to check if ID exists in DB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function to check if ID exists in DB" />
+    <MESSAGE value="Add hibernate functionality" />
+    <MESSAGE value="Add function to create new User in DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add function to create new User in DB" />
   </component>
 </project>
